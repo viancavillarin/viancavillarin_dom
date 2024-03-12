@@ -1,0 +1,47 @@
+body {
+  font-family: 'Helvetica';
+  background-color: #F9E897; 
+  color: #ffffff; 
+}
+
+.card {
+  background-color: #9BB0C1; 
+}
+
+.card-header {
+  background-color: #FFC374; 
+}
+
+.card-body {
+  padding: 20px;
+}
+
+.form-control {
+  color: #000000; 
+  border-color: #EADFB4; 
+}
+
+.btn-primary {
+  background-color: #F6995C; 
+  border-color: #fd9d0d; 
+  transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+
+.btn-primary:hover {
+  background-color: #fd9d0ddf; 
+  border-color: #000000; 
+}
+
+.btn-danger {
+  background-color: #dc3545; 
+  border-color: #dc3545; 
+}
+
+.btn-danger:hover {
+  background-color: #c82333; 
+  border-color: #c82333; 
+}
+
+.card-header h1 {
+  font-weight: bold;
+}
